@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🌱 I’m currently learning NodeJS, Express, Docker, ReactJS, NestJS, Prisma, GraphQL and etc.
-<a href="https://app.daily.dev/abdlrhmnelhyb"><img src="https://api.daily.dev/devcards/35a541ad5dcd4c1ebcd2a41958eb5b1d.png?r=2km" width="400" alt="Abdulrahman Elheyb's Dev Card"/></a>
 
 <!--
 **Abdulrahmanelheyb/abdulrahmanelheyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
