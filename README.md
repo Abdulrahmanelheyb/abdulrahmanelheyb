@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning NodeJS, Docker, ReactJS, NestJS, NextJS, Prisma, GraphQL and tRPC.
+- 🌱 I’m currently learning NodeJS, Docker, ReactJS, NestJS, NextJS, Prisma, and GraphQL.
 
 <!--
 **Abdulrahmanelheyb/abdulrahmanelheyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
