@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning NodeJS, Docker, ReactJS, NestJS, NextJS, Prisma, and GraphQL.
-
+- 🌱 I’m currently learning Microservices, Cloud computing and Penetration testing.
+- 🔭 I’m currently working on Vexyverse SaaS platform.
+- 💬 Ask me anything 😃 I will give you information if I have knowledge of it
 <!--
 **Abdulrahmanelheyb/abdulrahmanelheyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
